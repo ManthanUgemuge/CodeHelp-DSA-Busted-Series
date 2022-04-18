@@ -1,3 +1,5 @@
 ## Notes
 
--
+- Lecture1
+- Lecture2
+- Lecture3
