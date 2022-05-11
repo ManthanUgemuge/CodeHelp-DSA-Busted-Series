@@ -1,8 +1,9 @@
 # CodeHelp DSA Busted Series
 
-000. Handwritten Notes
-000. Notes
-001. Introduction, Flow Charts, PseudoCode, Programming and Why
+000 Handwritten Notes
+000 Notes
+
+1. Introduction, Flow Charts, PseudoCode, Programming and Why
 2. Write First C++ Program
 3. If-Else, While loop & Lots of Patterns
 4. Solving Pattern Questions (Part-2)
